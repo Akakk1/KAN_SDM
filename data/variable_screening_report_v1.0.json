@@ -1,0 +1,24 @@
+{
+  "version": "v1.0",
+  "method": "Literature priority + Pearson |r| < 0.8",
+  "literature_forced": [
+    "bio6",
+    "bio11",
+    "bio12",
+    "bio13"
+  ],
+  "final_vars": [
+    "bio6",
+    "bio11",
+    "bio12",
+    "bio13",
+    "bio2",
+    "bio3",
+    "bio4",
+    "bio5",
+    "bio14",
+    "bio15"
+  ],
+  "n_vars": 10,
+  "note": "Standard SDM variable screening: literature-priority variables (bio6, bio11, bio12, bio13) forced, collinearity controlled via Pearson |r| < 0.8. Used for KAN as an interpretability-focused analysis within the MaxEnt framework."
+}

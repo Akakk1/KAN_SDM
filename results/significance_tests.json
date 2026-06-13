@@ -1,0 +1,58 @@
+{
+  "aucs": [0.9163, 0.8913, 0.8815, 0.9026, 0.8818],
+  "delong_z": [
+    {
+      "Random Forest": 6.702,
+      "XGBoost": 8.347,
+      "MLP": 1.772,
+      "KAN (best)": 3.544,
+      "_row": "MaxEnt (R maxnet)"
+    },
+    {
+      "XGBoost": 3.54,
+      "MLP": -1.36,
+      "KAN (best)": 0.943,
+      "_row": "Random Forest"
+    },
+    {
+      "MLP": -2.452,
+      "KAN (best)": -0.028,
+      "_row": "XGBoost"
+    },
+    {
+      "KAN (best)": 3.012,
+      "_row": "MLP"
+    },
+    {
+      "_row": "KAN (best)"
+    }
+  ],
+  "delong_p": [
+    {
+      "Random Forest": 0,
+      "XGBoost": 0,
+      "MLP": 0.0765,
+      "KAN (best)": 0.0004,
+      "_row": "MaxEnt (R maxnet)"
+    },
+    {
+      "XGBoost": 0.0004,
+      "MLP": 0.174,
+      "KAN (best)": 0.3458,
+      "_row": "Random Forest"
+    },
+    {
+      "MLP": 0.0142,
+      "KAN (best)": 0.9777,
+      "_row": "XGBoost"
+    },
+    {
+      "KAN (best)": 0.0026,
+      "_row": "MLP"
+    },
+    {
+      "_row": "KAN (best)"
+    }
+  ],
+  "significance_level": 0.05
+}

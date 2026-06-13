@@ -1,0 +1,1 @@
+{"model":"MaxEnt (R maxnet)","cv":"blockCV 150km external folds","auc_mean":0.9168,"auc_std":0.0131,"folds":[0.9022,0.9298,0.9039,0.9208,0.9276]}
